@@ -1,49 +1,35 @@
 ---
 ---
 
-/* Hide the left navigation/sidebar and use full-width main content */
-.side-bar,
-.site-nav,
-.nav-list,
-.site-header,
-.aux-nav {
-  display: none !important;
+/* Custom styling for Thailand Essential Apps */
+
+/* Style the navigation links */
+.nav-list-link {
+  font-weight: 500;
 }
 
-.main,
-.main-content {
-  margin-left: 0 !important;
-  max-width: 100% !important;
+/* Add some spacing and styling to category sections */
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #f0f0f0;
 }
 
-/* Hide the mobile menu button too */
-.site-nav-toggle,
-.aux-nav-list {
-  display: none !important;
+/* Style the app icons */
+img[alt*="icon"] {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Ensure content containers expand when sidebar is hidden */
-.page,
-.page-content,
-.content {
-  max-width: 100% !important;
-  margin-left: 0 !important;
+/* Improve readability of app descriptions */
+p {
+  line-height: 1.6;
 }
 
-/* Target the specific Just the Docs layout */
-body {
-  margin: 0 !important;
-}
-
-.site-header {
-  display: none !important;
-}
-
-/* Force full width on all main containers */
-.main-content {
-  width: 100% !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 20px !important;
+/* Style the emoji categories in the header */
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
