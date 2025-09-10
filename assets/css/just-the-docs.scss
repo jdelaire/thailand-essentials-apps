@@ -1,0 +1,21 @@
+---
+---
+@import "just-the-docs";
+
+/* Hide the left navigation/sidebar and use full-width main content */
+.side-bar {
+  display: none !important;
+}
+
+.main {
+  margin-left: 0 !important;
+}
+
+/* Ensure content containers expand when sidebar is hidden */
+.main-content,
+.page,
+.page-content {
+  max-width: 100% !important;
+}
+
+
