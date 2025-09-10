@@ -1,3 +1,8 @@
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 title: Thailand Essential Apps
 description: Curated must-have apps for travelers, expats, and digital nomads in Thailand.
+just_the_docs:
+  color_scheme: light
