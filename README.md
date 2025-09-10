@@ -49,6 +49,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/google-maps.jpg" alt="Google Maps icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Google Maps
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Google Maps screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Google Maps screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Google Maps screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Maps & navigation  
 **Best Use Case:** Finding routes for walking, driving, or public transport in Thai cities  
@@ -61,6 +67,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/apple-maps.jpg" alt="Apple Maps icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Apple Maps
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Apple Maps screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Apple Maps screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Apple Maps screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Native iOS map and navigation app  
@@ -75,6 +87,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/grab.jpg" alt="Grab icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Grab
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Grab screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Grab screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Grab screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Ride-hailing, food delivery, grocery delivery  
 **Best Use Case:** Booking taxis or motorbikes, especially when language is a barrier  
@@ -87,6 +105,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/bolt.jpg" alt="Bolt icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Bolt
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Bolt screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Bolt screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Bolt screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Alternative ride-hailing app, usually cheaper than Grab  
@@ -101,6 +125,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/bts-skytrain.jpg" alt="BTS SkyTrain icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> BTS SkyTrain
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="BTS SkyTrain screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="BTS SkyTrain screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="BTS SkyTrain screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Official Bangkok SkyTrain (BTS) app for routes and fares  
 **Best Use Case:** Planning journeys on the BTS network across Bangkok  
 **Notable Tricks:**  
@@ -112,6 +142,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/bangkok-mrt.png" alt="Bangkok MRT icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Bangkok MRT
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Bangkok MRT screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Bangkok MRT screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Bangkok MRT screenshot 3" width="32%"/>
+</p>
 
 **Purpose:** Official app for the Bangkok MRT subway system  
 **Best Use Case:** Checking train routes, fares, and station info for the Blue and Purple lines  
@@ -127,6 +163,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/truemoney-wallet.jpg" alt="TrueMoney Wallet icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> TrueMoney Wallet
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="TrueMoney Wallet screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="TrueMoney Wallet screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="TrueMoney Wallet screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Digital wallet for QR payments, transfers, and bills  
 **Best Use Case:** Paying at 7-Eleven, street vendors, and online shopping  
@@ -140,6 +182,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/moreta-pay.png" alt="Moreta Pay icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Moreta Pay
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Moreta Pay screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Moreta Pay screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Moreta Pay screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Mobile wallet and payments platform growing in Thailand  
 **Best Use Case:** Paying at participating merchants, especially in Chiang Mai and partner locations  
 **Notable Tricks:**  
@@ -151,6 +199,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/wise.jpg" alt="Wise icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Wise
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Wise screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Wise screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Wise screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** International transfers and currency exchange  
@@ -164,6 +218,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/revolut.jpg" alt="Revolut icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Revolut
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Revolut screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Revolut screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Revolut screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Multi-currency banking app  
@@ -180,6 +240,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/grabfood.jpg" alt="GrabFood icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> GrabFood
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="GrabFood screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="GrabFood screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="GrabFood screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Food delivery from restaurants, cafes, and convenience stores  
 **Best Use Case:** Ordering meals in major Thai cities when you want the widest selection  
@@ -193,6 +259,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/line-man-wongnai.png" alt="LINE MAN Wongnai icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> LINE MAN Wongnai
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="LINE MAN Wongnai screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="LINE MAN Wongnai screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="LINE MAN Wongnai screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Food delivery and restaurant discovery  
 **Best Use Case:** Finding local eateries not listed on Grab or Foodpanda  
 **Notable Tricks:**  
@@ -204,6 +276,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/makro-pro.jpg" alt="Makro PRO icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Makro PRO
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Makro PRO screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Makro PRO screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Makro PRO screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Wholesale grocery ordering and delivery for businesses (B2B focus)  
@@ -220,6 +298,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/airbnb.jpg" alt="Airbnb icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Airbnb
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Airbnb screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Airbnb screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Airbnb screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Short-term and monthly rental platform  
 **Best Use Case:** Booking apartments, condos, or villas directly from hosts  
@@ -233,6 +317,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/agoda.jpg" alt="Agoda icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Agoda
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Agoda screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Agoda screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Agoda screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Hotel and accommodation booking with strong presence in Asia  
 **Best Use Case:** Finding deals on hotels, resorts, and guesthouses in Thailand  
@@ -245,6 +335,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/booking-com.jpg" alt="Booking.com icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Booking.com
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Booking.com screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Booking.com screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Booking.com screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Global hotel and accommodation booking platform  
@@ -261,6 +357,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/doctor-a-to-z.jpg" alt="Doctor A to Z icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Doctor A to Z
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Doctor A to Z screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Doctor A to Z screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Doctor A to Z screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Telemedicine app to book doctors and consult online  
 **Best Use Case:** When you need a quick consultation or prescription without visiting a hospital  
@@ -273,6 +375,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/mordee.png" alt="MorDee (หมอดี) icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MorDee (หมอดี)
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MorDee (หมอดี) screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MorDee (หมอดี) screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MorDee (หมอดี) screenshot 3" width="32%"/>
+</p>
 
 **Purpose:** Online medical consultation and prescription app  
 **Best Use Case:** Talking to Thai doctors remotely for minor issues, refills, or advice  
@@ -288,6 +396,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/line.jpg" alt="LINE icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> LINE
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="LINE screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="LINE screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="LINE screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Thailand’s #1 messaging app for chats, calls, and payments  
 **Best Use Case:** Staying in touch with locals, paying via QR codes, joining community groups  
@@ -301,6 +415,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/messenger.jpg" alt="Messenger icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Messenger
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Messenger screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Messenger screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Messenger screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Facebook’s messaging platform  
 **Best Use Case:** Communicating with Thai friends and businesses that use Facebook Pages  
@@ -313,6 +433,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/whatsapp.jpg" alt="WhatsApp icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> WhatsApp
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="WhatsApp screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="WhatsApp screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="WhatsApp screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Global messaging app  
@@ -329,6 +455,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/shopee.png" alt="Shopee icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Shopee
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Shopee screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Shopee screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Shopee screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Thailand’s largest e-commerce marketplace  
 **Best Use Case:** Buying cheap goods, fashion, gadgets, and home items with daily vouchers  
 **Notable Tricks:**  
@@ -340,6 +472,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/lazada.jpg" alt="Lazada icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Lazada
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Lazada screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Lazada screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Lazada screenshot 3" width="32%"/>
+</p>
 
 
 **Purpose:** Major e-commerce app with wide product range and official brand stores  
@@ -355,6 +493,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/jd-central.jpg" alt="JD Central icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> JD Central
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="JD Central screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="JD Central screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="JD Central screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Online shopping app for genuine goods and electronics  
 **Best Use Case:** Buying appliances, electronics, and products with reliability  
 **Notable Tricks:**  
@@ -369,6 +513,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/mea-smart-life.jpg" alt="MEA Smart Life icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MEA Smart Life
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MEA Smart Life screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MEA Smart Life screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MEA Smart Life screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Manage electricity bills in Bangkok (Metropolitan Electricity Authority)  
 **Best Use Case:** Paying and tracking monthly electricity bills if you live in Bangkok  
 **Notable Tricks:**  
@@ -380,6 +530,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/pea-smart-plus.png" alt="PEA Smart Plus icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> PEA Smart Plus
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="PEA Smart Plus screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="PEA Smart Plus screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="PEA Smart Plus screenshot 3" width="32%"/>
+</p>
 
 **Purpose:** Manage electricity bills outside Bangkok (Provincial Electricity Authority)  
 **Best Use Case:** Paying electricity bills for condos or houses in provincial areas  
@@ -393,6 +549,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/mwa-onmobile.jpg" alt="MWA onMobile icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MWA onMobile
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MWA onMobile screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MWA onMobile screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MWA onMobile screenshot 3" width="32%"/>
+</p>
+
 **Purpose:** Manage Bangkok water supply bills  
 **Best Use Case:** Paying and tracking water bills in Bangkok condos and houses  
 **Notable Tricks:**  
@@ -404,6 +566,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/dlt-qr-licence.jpg" alt="DLT QR Licence icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> DLT QR Licence
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="DLT QR Licence screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="DLT QR Licence screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="DLT QR Licence screenshot 3" width="32%"/>
+</p>
 
 **Purpose:** Digital Thai driving licence app by the Department of Land Transport  
 **Best Use Case:** Carrying a valid digital driver’s license instead of the plastic card  
@@ -419,6 +587,12 @@ To access them, you may need to switch or create a Thai account.
 
 ### <img src="icons/google-translate.jpg" alt="Google Translate icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Google Translate
 
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Google Translate screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Google Translate screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Google Translate screenshot 3" width="32%"/>
+</p>
+
 
 **Purpose:** Translation app for Thai ↔ English (and more)  
 **Best Use Case:** Communicating with locals when language barrier appears  
@@ -431,6 +605,12 @@ To access them, you may need to switch or create a Thai account.
 ---
 
 ### <img src="icons/apple-translate.jpg" alt="Apple Translate icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Apple Translate
+
+<p>
+  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Apple Translate screenshot 1" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Apple Translate screenshot 2" width="32%"/>
+  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Apple Translate screenshot 3" width="32%"/>
+</p>
 
 **Purpose:** Apple’s native translation app  
 **Best Use Case:** Quick translations on iPhone, especially with Siri integration  
