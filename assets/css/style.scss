@@ -5,7 +5,8 @@
 .side-bar,
 .site-nav,
 .nav-list,
-.site-header {
+.site-header,
+.aux-nav {
   display: none !important;
 }
 
@@ -16,7 +17,8 @@
 }
 
 /* Hide the mobile menu button too */
-.site-nav-toggle {
+.site-nav-toggle,
+.aux-nav-list {
   display: none !important;
 }
 
@@ -28,4 +30,20 @@
   margin-left: 0 !important;
 }
 
+/* Target the specific Just the Docs layout */
+body {
+  margin: 0 !important;
+}
+
+.site-header {
+  display: none !important;
+}
+
+/* Force full width on all main containers */
+.main-content {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 20px !important;
+}
 
