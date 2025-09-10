@@ -1,6 +1,6 @@
 # 🇹🇭 Thailand Essential Apps Guide  
 
-🚕 Transport | 💸 Money | 🍜 Food | 🏠 Housing | 🏥 Healthcare | 💬 Social | 🛒 Shopping | 🧾 Utilities | 🌏 Travel  
+🚕 Transport | 💸 Money | 🍜 Food | 🏠 Housing | 💬 Social | 🛒 Shopping | 🧾 Utilities | 🌏 Travel  
 
 A curated guide to the **must-have apps for travelers, expats, and digital nomads in Thailand**.  
 Each app includes its **purpose, best use case, hidden tricks, and download links** — so you can get set up quickly and live like a local.  
@@ -353,45 +353,6 @@ To access them, you may need to switch or create a Thai account.
 
 ---
 
-## 🏥 Healthcare & Wellness  
-
-### <img src="icons/doctor-a-to-z.jpg" alt="Doctor A to Z icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> Doctor A to Z
-
-<p>
-  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="Doctor A to Z screenshot 1" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="Doctor A to Z screenshot 2" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="Doctor A to Z screenshot 3" width="32%"/>
-</p>
-
-
-**Purpose:** Telemedicine app to book doctors and consult online  
-**Best Use Case:** When you need a quick consultation or prescription without visiting a hospital  
-**Notable Tricks:**  
-- Supports direct payment via Thai banks or credit card  
-- Medicine delivery service available in major cities  
-**Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/doctor-a-to-z/id1147257394) / [Google Play](https://play.google.com/store/apps/details?id=com.doctoratoz.patient)  
-
----
-
-### <img src="icons/mordee.png" alt="MorDee (หมอดี) icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MorDee (หมอดี)
-
-<p>
-  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MorDee (หมอดี) screenshot 1" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MorDee (หมอดี) screenshot 2" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MorDee (หมอดี) screenshot 3" width="32%"/>
-</p>
-
-**Purpose:** Online medical consultation and prescription app  
-**Best Use Case:** Talking to Thai doctors remotely for minor issues, refills, or advice  
-**Notable Tricks:**  
-- Provides e-prescriptions you can use at pharmacies  
-- Offers mental health and wellness consultations as well  
-**Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/mordee/id1507517592) / [Google Play](https://play.google.com/store/apps/details?id=com.truehealth.doctor)  
-
----
-
 ## 💬 Communication & Social  
 
 ### <img src="icons/line.jpg" alt="LINE icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> LINE
@@ -509,25 +470,6 @@ To access them, you may need to switch or create a Thai account.
 
 ---
 
-## 🧾 Utilities & Government  
-
-### <img src="icons/mea-smart-life.jpg" alt="MEA Smart Life icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MEA Smart Life
-
-<p>
-  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MEA Smart Life screenshot 1" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MEA Smart Life screenshot 2" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MEA Smart Life screenshot 3" width="32%"/>
-</p>
-
-**Purpose:** Manage electricity bills in Bangkok (Metropolitan Electricity Authority)  
-**Best Use Case:** Paying and tracking monthly electricity bills if you live in Bangkok  
-**Notable Tricks:**  
-- Supports QR PromptPay for fast payments  
-- Can view past consumption history  
-**Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/mea-smart-life/id1465462176) / [Google Play](https://play.google.com/store/apps/details?id=th.co.mea.meaapp)  
-
----
 
 ### <img src="icons/pea-smart-plus.png" alt="PEA Smart Plus icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> PEA Smart Plus
 
@@ -544,24 +486,6 @@ To access them, you may need to switch or create a Thai account.
 - Multiple account support (handy for landlords)  
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/th/app/pea-smart-plus/id1330554881) / [Google Play](https://play.google.com/store/apps/details?id=th.co.pea.smartapp)  
-
----
-
-### <img src="icons/mwa-onmobile.jpg" alt="MWA onMobile icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> MWA onMobile
-
-<p>
-  <img src="https://placehold.co/600x130?text=Screenshot+1" alt="MWA onMobile screenshot 1" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+2" alt="MWA onMobile screenshot 2" width="32%"/>
-  <img src="https://placehold.co/600x130?text=Screenshot+3" alt="MWA onMobile screenshot 3" width="32%"/>
-</p>
-
-**Purpose:** Manage Bangkok water supply bills  
-**Best Use Case:** Paying and tracking water bills in Bangkok condos and houses  
-**Notable Tricks:**  
-- Quick scan of bills with QR code  
-- Bill alerts for due dates  
-**Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/mwa-onmobile/id1003395142) / [Google Play](https://play.google.com/store/apps/details?id=th.or.mwa.onmobile)  
 
 ---
 
