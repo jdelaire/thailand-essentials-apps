@@ -1,6 +1,5 @@
 ---
 title: Money & Payments
-parent: Home
 nav_order: 2
 ---
 

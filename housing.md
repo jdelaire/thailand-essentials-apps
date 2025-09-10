@@ -1,6 +1,5 @@
 ---
 title: Accommodation & Housing
-parent: Home
 nav_order: 4
 ---
 

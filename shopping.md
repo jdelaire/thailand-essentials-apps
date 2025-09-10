@@ -1,6 +1,5 @@
 ---
 title: Shopping & Lifestyle
-parent: Home
 nav_order: 6
 ---
 

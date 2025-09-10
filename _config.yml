@@ -22,19 +22,6 @@ just_the_docs:
     "GitHub":
       - "//github.com/jdelaire/thailand-essentials-apps"
 
-# Navigation structure
-navigation:
-  - title: Home
-    url: /
-  - title: Transport
-    url: /transport
-  - title: Money
-    url: /money
-  - title: Food
-    url: /food
-  - title: Housing
-    url: /housing
-  - title: Social
-    url: /social
-  - title: Shopping
-    url: /shopping
+# Navigation structure - Just the Docs uses file-based navigation
+# The navigation will be automatically generated from the markdown files
+# based on their front matter (title, nav_order, parent)

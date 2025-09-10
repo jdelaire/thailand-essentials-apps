@@ -1,6 +1,5 @@
 ---
 title: Transport & Navigation
-parent: Home
 nav_order: 1
 ---
 

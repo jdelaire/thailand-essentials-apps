@@ -1,6 +1,5 @@
 ---
 title: Food & Groceries
-parent: Home
 nav_order: 3
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Communication & Social
-parent: Home
 nav_order: 5
 ---
 
