@@ -2,19 +2,30 @@
 ---
 
 /* Hide the left navigation/sidebar and use full-width main content */
-.side-bar {
+.side-bar,
+.site-nav,
+.nav-list,
+.site-header {
   display: none !important;
 }
 
-.main {
+.main,
+.main-content {
   margin-left: 0 !important;
+  max-width: 100% !important;
+}
+
+/* Hide the mobile menu button too */
+.site-nav-toggle {
+  display: none !important;
 }
 
 /* Ensure content containers expand when sidebar is hidden */
-.main-content,
 .page,
-.page-content {
+.page-content,
+.content {
   max-width: 100% !important;
+  margin-left: 0 !important;
 }
 
 
