@@ -39,17 +39,20 @@ h2 {
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.5rem;
+  gap: 0.25rem;
   margin-top: 1rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 120px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  width: 60px;
+  height: 106px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
+  flex-shrink: 0;
 }
 
 .app-screenshot:hover {
