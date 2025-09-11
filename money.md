@@ -36,11 +36,11 @@ nav_order: 2
 }
 
 .app-screenshot {
-  width: 90px;
-  height: 160px;
+  width: 120px;
+  height: 213px;
   object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.2);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
