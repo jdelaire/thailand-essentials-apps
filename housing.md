@@ -19,7 +19,7 @@ Essential apps for finding and booking accommodation in Thailand.
 - Use "Monthly stay" filter for big discounts on long-term rentals  
 - Many listings include utilities and internet, ideal for digital nomads  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/airbnb/id401626263) / [Google Play](https://play.google.com/store/apps/details?id=com.airbnb.android)
+**Download:** [App Store](https://apps.apple.com/th/app/airbnb/id401626263){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.airbnb.android){:target="_blank"}
 
 ---
 
@@ -35,7 +35,7 @@ Essential apps for finding and booking accommodation in Thailand.
 - "AgodaCash" loyalty system gives discounts on future bookings  
 - Prices often lower than Booking.com for Thai hotels  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/agoda/id440676901) / [Google Play](https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer)
+**Download:** [App Store](https://apps.apple.com/th/app/agoda/id440676901){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer){:target="_blank"}
 
 ---
 
@@ -51,4 +51,4 @@ Essential apps for finding and booking accommodation in Thailand.
 - Genius loyalty program unlocks discounts and perks  
 - Many properties allow free cancellation until the day before check-in  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/booking-com-hotels-travel/id367003839) / [Google Play](https://play.google.com/store/apps/details?id=com.booking)
+**Download:** [App Store](https://apps.apple.com/th/app/booking-com-hotels-travel/id367003839){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.booking){:target="_blank"}

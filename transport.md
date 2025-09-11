@@ -19,7 +19,7 @@ Essential apps for getting around Thailand efficiently.
 - Download offline maps before rural or island trips  
 - Search in Thai script for more accurate results  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/app/google-maps/id585027354) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+**Download:** [App Store](https://apps.apple.com/app/google-maps/id585027354){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.maps){:target="_blank"}
 
 ---
 
@@ -35,7 +35,7 @@ Essential apps for getting around Thailand efficiently.
 - Works seamlessly with Apple CarPlay  
 - Shows Bangkok BTS/MRT lines with station details  
 **Platform:** *iOS | macOS*  
-**Download:** [App Store](https://apps.apple.com/app/apple-maps/id915056765)
+**Download:** [App Store](https://apps.apple.com/app/apple-maps/id915056765){:target="_blank"}
 
 ---
 
@@ -51,7 +51,7 @@ Essential apps for getting around Thailand efficiently.
 - GrabRewards points can be exchanged for discounts  
 - Works with most international credit/debit cards  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/grab/id647268330) / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+**Download:** [App Store](https://apps.apple.com/app/grab/id647268330){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger){:target="_blank"}
 
 ---
 
@@ -67,7 +67,7 @@ Essential apps for getting around Thailand efficiently.
 - Often cheaper than Grab, but availability can be limited late at night  
 - Some drivers only accept cash — check before riding  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/bolt/id675033630) / [Google Play](https://play.google.com/store/apps/details?id=ee.mtakso.client)
+**Download:** [App Store](https://apps.apple.com/app/bolt/id675033630){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=ee.mtakso.client){:target="_blank"}
 
 ---
 
@@ -83,7 +83,7 @@ Essential apps for getting around Thailand efficiently.
 - Built-in route planner with fare estimates  
 - Station maps include exits and nearby landmarks  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/bts-skytrain/id606189381) / [Google Play](https://play.google.com/store/apps/details?id=th.btsc.theskytrains)
+**Download:** [App Store](https://apps.apple.com/th/app/bts-skytrain/id606189381){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=th.btsc.theskytrains){:target="_blank"}
 
 ---
 
@@ -99,4 +99,4 @@ Essential apps for getting around Thailand efficiently.
 - Provides updates on service disruptions  
 - Station details include park & ride, facilities, and exits  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/bangkok-mrt/id1059263761) / [Google Play](https://play.google.com/store/apps/details?id=com.devsenses.mrt_app)
+**Download:** [App Store](https://apps.apple.com/th/app/bangkok-mrt/id1059263761){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.devsenses.mrt_app){:target="_blank"}

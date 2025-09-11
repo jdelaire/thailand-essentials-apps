@@ -19,7 +19,7 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - Integrated with Grab app (rides + food + groceries)  
 - GrabRewards points can be exchanged for food discounts  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/grab/id647268330) / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+**Download:** [App Store](https://apps.apple.com/app/grab/id647268330){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger){:target="_blank"}
 
 ---
 
@@ -35,7 +35,7 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - Integrated with Wongnai reviews for trusted ratings  
 - Often has lower delivery fees in central Bangkok  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/line-man-wongnai/id1071609634) / [Google Play](https://play.google.com/store/apps/details?id=com.linecorp.linemanth)
+**Download:** [App Store](https://apps.apple.com/th/app/line-man-wongnai/id1071609634){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.linecorp.linemanth){:target="_blank"}
 
 ---
 
@@ -51,4 +51,4 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - Offers next-day delivery — great for bulk restock needs  
 - PRO Points system gives cashback rewards on purchases  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/makropro-9-9-super-deals/id1570380497) / [Google Play](https://play.google.com/store/apps/details?id=com.makromangoapp.production)
+**Download:** [App Store](https://apps.apple.com/th/app/makropro-9-9-super-deals/id1570380497){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.makromangoapp.production){:target="_blank"}

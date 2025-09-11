@@ -19,7 +19,7 @@ Essential apps for managing money and making payments in Thailand.
 - Works widely where PromptPay is accepted  
 - Easy top-up with Thai bank or cash at 7-Eleven  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/us/app/truemoney-pay-earn-coins/id663885752) / [Google Play](https://play.google.com/store/apps/details?id=th.co.truemoney.wallet)
+**Download:** [App Store](https://apps.apple.com/us/app/truemoney-pay-earn-coins/id663885752){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=th.co.truemoney.wallet){:target="_blank"}
 
 ---
 
@@ -36,7 +36,7 @@ Essential apps for managing money and making payments in Thailand.
 - Works with USD bank accounts and international Visa/Mastercard  
 - No cash exchanges or ATM runs needed  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/us/app/moreta-pay/id6590609636) / [Google Play](https://play.google.com/store/apps/details?id=com.moreta.moretamobile)
+**Download:** [App Store](https://apps.apple.com/us/app/moreta-pay/id6590609636){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.moreta.moretamobile){:target="_blank"}
 
 ---
 
@@ -52,7 +52,7 @@ Essential apps for managing money and making payments in Thailand.
 - Multi-currency account with THB wallet  
 - Great exchange rates compared to banks  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/app/wise/id612261027) / [Google Play](https://play.google.com/store/apps/details?id=com.transferwise.android)
+**Download:** [App Store](https://apps.apple.com/app/wise/id612261027){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.transferwise.android){:target="_blank"}
 
 ---
 
@@ -68,4 +68,4 @@ Essential apps for managing money and making payments in Thailand.
 - Create virtual cards for secure online shopping  
 - Works with Apple Pay / Google Pay in Thailand  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/app/revolut/id932493382) / [Google Play](https://play.google.com/store/apps/details?id=com.revolut.revolut)
+**Download:** [App Store](https://apps.apple.com/app/revolut/id932493382){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.revolut.revolut){:target="_blank"}

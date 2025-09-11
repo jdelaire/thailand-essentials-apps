@@ -19,7 +19,7 @@ Essential apps for shopping and lifestyle needs in Thailand.
 - Daily "Shopee Coins" and voucher codes reduce prices  
 - Integrated chat to negotiate with sellers  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/shopee-th/id959841449) / [Google Play](https://play.google.com/store/apps/details?id=com.shopee.th)
+**Download:** [App Store](https://apps.apple.com/th/app/shopee-th/id959841449){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.shopee.th){:target="_blank"}
 
 ---
 
@@ -36,20 +36,4 @@ Essential apps for shopping and lifestyle needs in Thailand.
 - Frequent 11.11, 12.12, and payday mega sales  
 - You can pay your electricity, water, and mobile bills directly in the app using foreign credit cards
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/lazada-th/id785385147) / [Google Play](https://play.google.com/store/apps/details?id=com.lazada.android)
-
----
-
-## JD Central
-
-<img src="icons/jd-central.jpg" alt="JD Central icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
-
-**Purpose:** Online shopping app for genuine goods and electronics  
-**Best Use Case:** Buying appliances, electronics, and products with reliability  
-**Available on Thai Store only:** ❌  
-**Foreign Credit Cards accepted?** ✅  
-**Notable Tricks:**  
-- Strong focus on authentic, guaranteed goods  
-- Often runs flash sales on home appliances  
-**Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/jd-central/id1330536091) / [Google Play](https://play.google.com/store/apps/details?id=com.jd.jdlite.th)
+**Download:** [App Store](https://apps.apple.com/th/app/lazada-th/id785385147){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.lazada.android){:target="_blank"}

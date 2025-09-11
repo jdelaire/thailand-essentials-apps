@@ -19,7 +19,7 @@ Essential apps for staying connected and communicating in Thailand.
 - Add official accounts for banks, shops, and even government services  
 - Use LINE Pay for payments and discounts  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/line/id443904275) / [Google Play](https://play.google.com/store/apps/details?id=jp.naver.line.android)
+**Download:** [App Store](https://apps.apple.com/th/app/line/id443904275){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=jp.naver.line.android){:target="_blank"}
 
 ---
 
@@ -35,7 +35,7 @@ Essential apps for staying connected and communicating in Thailand.
 - Many small shops in Thailand only reply via Facebook + Messenger  
 - Integrated with Facebook Marketplace for buying/selling  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/messenger/id454638411) / [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca)
+**Download:** [App Store](https://apps.apple.com/th/app/messenger/id454638411){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca){:target="_blank"}
 
 ---
 
@@ -51,4 +51,4 @@ Essential apps for staying connected and communicating in Thailand.
 - End-to-end encrypted calls and messages  
 - Works with international numbers when switching SIM cards  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/th/app/whatsapp-messenger/id310633997) / [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)
+**Download:** [App Store](https://apps.apple.com/th/app/whatsapp-messenger/id310633997){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp){:target="_blank"}

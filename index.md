@@ -18,7 +18,7 @@ To access them, you may need to switch or create a Thai account.
 ### <img src="icons/ios-apple-id.jpg" alt="iOS (Apple ID) icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/> iOS (Apple ID)
 
 1. Open **Settings** → tap your name → **Media & Purchases** → **Sign Out**.  
-2. Create a new Apple ID at [appleid.apple.com](https://appleid.apple.com/).  
+2. Create a new Apple ID at [appleid.apple.com](https://appleid.apple.com/){:target="_blank"}.  
 3. When asked for a region, select **Thailand**.  
 4. You'll need a Thai address — you can use your hotel, condo, or a coworking space.  
 5. Once logged in with the Thai Apple ID, you'll be able to download Thai-only apps.  
