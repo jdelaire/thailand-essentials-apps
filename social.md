@@ -9,7 +9,10 @@ Essential apps for staying connected and communicating in Thailand.
 
 ## LINE
 
-<img src="icons/line.jpg" alt="LINE icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/line.jpg" alt="LINE icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">LINE</h3>
+</div>
 
 **Purpose:** Thailand's #1 messaging app for chats, calls, and payments  
 **Best Use Case:** Staying in touch with locals, paying via QR codes, joining community groups  
@@ -21,11 +24,20 @@ Essential apps for staying connected and communicating in Thailand.
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/line/id443904275){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=jp.naver.line.android){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/line-1.jpg" alt="LINE Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/line-2.jpg" alt="LINE Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/line-3.jpg" alt="LINE Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Messenger
 
-<img src="icons/messenger.jpg" alt="Messenger icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/messenger.jpg" alt="Messenger icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Messenger</h3>
+</div>
 
 **Purpose:** Facebook's messaging platform  
 **Best Use Case:** Communicating with Thai friends and businesses that use Facebook Pages  
@@ -37,11 +49,20 @@ Essential apps for staying connected and communicating in Thailand.
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/messenger/id454638411){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.facebook.orca){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/messenger-1.jpg" alt="Messenger Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/messenger-2.jpg" alt="Messenger Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/messenger-3.jpg" alt="Messenger Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## WhatsApp
 
-<img src="icons/whatsapp.jpg" alt="WhatsApp icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/whatsapp.jpg" alt="WhatsApp icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">WhatsApp</h3>
+</div>
 
 **Purpose:** Global messaging app  
 **Best Use Case:** Staying connected with friends and family abroad  
@@ -52,3 +73,9 @@ Essential apps for staying connected and communicating in Thailand.
 - Works with international numbers when switching SIM cards  
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/whatsapp-messenger/id310633997){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.whatsapp){:target="_blank"}
+
+<div class="app-screenshots">
+<img src="screenshots/whatsapp-1.jpg" alt="WhatsApp Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/whatsapp-2.jpg" alt="WhatsApp Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/whatsapp-3.jpg" alt="WhatsApp Screenshot 3" class="app-screenshot"/>
+</div>

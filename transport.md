@@ -9,7 +9,10 @@ Essential apps for getting around Thailand efficiently.
 
 ## Google Maps
 
-<img src="icons/google-maps.jpg" alt="Google Maps icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/google-maps.jpg" alt="Google Maps icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Google Maps</h3>
+</div>
 
 **Purpose:** Maps & navigation  
 **Best Use Case:** Finding routes for walking, driving, or public transport in Thai cities  
@@ -21,11 +24,20 @@ Essential apps for getting around Thailand efficiently.
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/app/google-maps/id585027354){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.maps){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/google-maps-1.jpg" alt="Google Maps Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/google-maps-2.jpg" alt="Google Maps Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/google-maps-3.jpg" alt="Google Maps Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Apple Maps
 
-<img src="icons/apple-maps.jpg" alt="Apple Maps icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/apple-maps.jpg" alt="Apple Maps icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Apple Maps</h3>
+</div>
 
 **Purpose:** Native iOS map and navigation app  
 **Best Use Case:** iPhone users wanting simple navigation with Siri integration  
@@ -37,11 +49,20 @@ Essential apps for getting around Thailand efficiently.
 **Platform:** *iOS | macOS*  
 **Download:** [App Store](https://apps.apple.com/app/apple-maps/id915056765){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/apple-maps-1.jpg" alt="Apple Maps Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/apple-maps-2.jpg" alt="Apple Maps Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/apple-maps-3.jpg" alt="Apple Maps Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Grab
 
-<img src="icons/grab.jpg" alt="Grab icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/grab.jpg" alt="Grab icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Grab</h3>
+</div>
 
 **Purpose:** Ride-hailing, food delivery, grocery delivery  
 **Best Use Case:** Booking taxis or motorbikes, especially when language is a barrier  
@@ -53,11 +74,20 @@ Essential apps for getting around Thailand efficiently.
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/app/grab/id647268330){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/grab-1.jpg" alt="Grab Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/grab-2.jpg" alt="Grab Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/grab-3.jpg" alt="Grab Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Bolt
 
-<img src="icons/bolt.jpg" alt="Bolt icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/bolt.jpg" alt="Bolt icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Bolt</h3>
+</div>
 
 **Purpose:** Alternative ride-hailing app, usually cheaper than Grab  
 **Best Use Case:** Quick and affordable rides in Bangkok and Chiang Mai  
@@ -69,11 +99,20 @@ Essential apps for getting around Thailand efficiently.
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/app/bolt/id675033630){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=ee.mtakso.client){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/bolt-1.jpg" alt="Bolt Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/bolt-2.jpg" alt="Bolt Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/bolt-3.jpg" alt="Bolt Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## BTS SkyTrain
 
-<img src="icons/bts-skytrain.jpg" alt="BTS SkyTrain icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/bts-skytrain.jpg" alt="BTS SkyTrain icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">BTS SkyTrain</h3>
+</div>
 
 **Purpose:** Official Bangkok SkyTrain (BTS) app for routes and fares  
 **Best Use Case:** Planning journeys on the BTS network across Bangkok  
@@ -85,11 +124,20 @@ Essential apps for getting around Thailand efficiently.
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/th/app/bts-skytrain/id606189381){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=th.btsc.theskytrains){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/bts-skytrain-1.jpg" alt="BTS SkyTrain Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/bts-skytrain-2.jpg" alt="BTS SkyTrain Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/bts-skytrain-3.jpg" alt="BTS SkyTrain Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Bangkok MRT
 
-<img src="icons/bangkok-mrt.png" alt="Bangkok MRT icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/bangkok-mrt.png" alt="Bangkok MRT icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Bangkok MRT</h3>
+</div>
 
 **Purpose:** Official app for the Bangkok MRT subway system  
 **Best Use Case:** Checking train routes, fares, and station info for the Blue and Purple lines  
@@ -100,3 +148,9 @@ Essential apps for getting around Thailand efficiently.
 - Station details include park & ride, facilities, and exits  
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/th/app/bangkok-mrt/id1059263761){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.devsenses.mrt_app){:target="_blank"}
+
+<div class="app-screenshots">
+<img src="screenshots/bangkok-mrt-1.jpg" alt="Bangkok MRT Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/bangkok-mrt-2.jpg" alt="Bangkok MRT Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/bangkok-mrt-3.jpg" alt="Bangkok MRT Screenshot 3" class="app-screenshot"/>
+</div>

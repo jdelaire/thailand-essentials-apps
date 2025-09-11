@@ -9,7 +9,10 @@ Essential apps for shopping and lifestyle needs in Thailand.
 
 ## Shopee
 
-<img src="icons/shopee.png" alt="Shopee icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/shopee.png" alt="Shopee icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Shopee</h3>
+</div>
 
 **Purpose:** Thailand's largest e-commerce marketplace  
 **Best Use Case:** Buying cheap goods, fashion, gadgets, and home items with daily vouchers  
@@ -21,11 +24,20 @@ Essential apps for shopping and lifestyle needs in Thailand.
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/shopee-th/id959841449){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.shopee.th){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/shopee-1.jpg" alt="Shopee Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/shopee-2.jpg" alt="Shopee Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/shopee-3.jpg" alt="Shopee Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Lazada
 
-<img src="icons/lazada.jpg" alt="Lazada icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/lazada.jpg" alt="Lazada icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Lazada</h3>
+</div>
 
 **Purpose:** Major e-commerce app with wide product range and official brand stores  
 **Best Use Case:** Electronics, appliances, and products where you want authenticity guaranteed  
@@ -37,3 +49,9 @@ Essential apps for shopping and lifestyle needs in Thailand.
 - You can pay your electricity, water, and mobile bills directly in the app using foreign credit cards
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/lazada-th/id785385147){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.lazada.android){:target="_blank"}
+
+<div class="app-screenshots">
+<img src="screenshots/lazada-1.jpg" alt="Lazada Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/lazada-2.jpg" alt="Lazada Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/lazada-3.jpg" alt="Lazada Screenshot 3" class="app-screenshot"/>
+</div>

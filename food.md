@@ -9,7 +9,10 @@ Essential apps for food delivery and grocery shopping in Thailand.
 
 ## GrabFood
 
-<img src="icons/grabfood.jpg" alt="GrabFood icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/grabfood.jpg" alt="GrabFood icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">GrabFood</h3>
+</div>
 
 **Purpose:** Food delivery from restaurants, cafes, and convenience stores  
 **Best Use Case:** Ordering meals in major Thai cities when you want the widest selection  
@@ -21,11 +24,20 @@ Essential apps for food delivery and grocery shopping in Thailand.
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/app/grab/id647268330){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/grabfood-1.jpg" alt="GrabFood Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/grabfood-2.jpg" alt="GrabFood Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/grabfood-3.jpg" alt="GrabFood Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## LINE MAN Wongnai
 
-<img src="icons/line-man-wongnai.png" alt="LINE MAN Wongnai icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/line-man-wongnai.png" alt="LINE MAN Wongnai icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">LINE MAN Wongnai</h3>
+</div>
 
 **Purpose:** Food delivery and restaurant discovery  
 **Best Use Case:** Finding local eateries not listed on Grab or Foodpanda  
@@ -37,11 +49,20 @@ Essential apps for food delivery and grocery shopping in Thailand.
 **Platform:** *iOS | Android*  
 **Download:** [App Store](https://apps.apple.com/th/app/line-man-wongnai/id1071609634){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.linecorp.linemanth){:target="_blank"}
 
+<div class="app-screenshots">
+<img src="screenshots/line-man-wongnai-1.jpg" alt="LINE MAN Wongnai Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/line-man-wongnai-2.jpg" alt="LINE MAN Wongnai Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/line-man-wongnai-3.jpg" alt="LINE MAN Wongnai Screenshot 3" class="app-screenshot"/>
+</div>
+
 ---
 
 ## Makro PRO
 
-<img src="icons/makro-pro.jpg" alt="Makro PRO icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<div class="app-header">
+<img src="icons/makro-pro.jpg" alt="Makro PRO icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">Makro PRO</h3>
+</div>
 
 **Purpose:** Wholesale grocery ordering and delivery for businesses (B2B focus)  
 **Best Use Case:** Stocking up on bulk groceries, supplies, and household items for restaurants, hotels, or retail  
@@ -52,3 +73,9 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - PRO Points system gives cashback rewards on purchases  
 **Platform:** *iOS | Android | Web*  
 **Download:** [App Store](https://apps.apple.com/th/app/makropro-9-9-super-deals/id1570380497){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.makromangoapp.production){:target="_blank"}
+
+<div class="app-screenshots">
+<img src="screenshots/makro-pro-1.jpg" alt="Makro PRO Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/makro-pro-2.jpg" alt="Makro PRO Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/makro-pro-3.jpg" alt="Makro PRO Screenshot 3" class="app-screenshot"/>
+</div>
