@@ -2,6 +2,11 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-sass-converter
+  - jekyll-feed
+
+# CSS and SCSS
+sass:
+  style: compressed
 
 title: Thailand Essential Apps
 description: Curated must-have apps for travelers, expats, and digital nomads in Thailand.
