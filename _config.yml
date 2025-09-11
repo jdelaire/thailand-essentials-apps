@@ -8,6 +8,9 @@ plugins:
 sass:
   style: compressed
 
+# Custom CSS
+custom_css: assets/css/style.css
+
 title: Thailand Essential Apps
 description: Curated must-have apps for travelers, expats, and digital nomads in Thailand.
 
