@@ -3,6 +3,53 @@ title: Money & Payments
 nav_order: 2
 ---
 
+<style>
+/* Custom styling for Thailand Essential Apps */
+
+/* Style the app icons - centered above app names */
+.app-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.app-icon {
+  display: block;
+  margin: 0 auto 0.5rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.app-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Style the app screenshots */
+.app-screenshots {
+  display: flex;
+  justify-content: center;
+  gap: 0.25rem;
+  margin-top: 1rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.app-screenshot {
+  width: 60px;
+  height: 106px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.app-screenshot:hover {
+  transform: scale(1.05);
+}
+</style>
+
 # 💸 Money & Payments
 
 Essential apps for managing money and making payments in Thailand.
