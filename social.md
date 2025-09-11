@@ -29,18 +29,18 @@ nav_order: 5
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   margin-top: 1rem;
   flex-wrap: nowrap;
   overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 90px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
@@ -63,7 +63,7 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Thailand's #1 messaging app for chats, calls, and payments  
 **Best Use Case:** Staying in touch with locals, paying via QR codes, joining community groups  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Add official accounts for banks, shops, and even government services  
@@ -88,7 +88,7 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Facebook's messaging platform  
 **Best Use Case:** Communicating with Thai friends and businesses that use Facebook Pages  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Many small shops in Thailand only reply via Facebook + Messenger  
@@ -113,7 +113,7 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Global messaging app  
 **Best Use Case:** Staying connected with friends and family abroad  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - End-to-end encrypted calls and messages  

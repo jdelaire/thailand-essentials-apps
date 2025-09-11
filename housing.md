@@ -29,18 +29,18 @@ nav_order: 4
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   margin-top: 1rem;
   flex-wrap: nowrap;
   overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 90px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
@@ -63,7 +63,7 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Short-term and monthly rental platform  
 **Best Use Case:** Booking apartments, condos, or villas directly from hosts  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Use "Monthly stay" filter for big discounts on long-term rentals  
@@ -88,7 +88,7 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Hotel and accommodation booking with strong presence in Asia  
 **Best Use Case:** Finding deals on hotels, resorts, and guesthouses in Thailand  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - "AgodaCash" loyalty system gives discounts on future bookings  
@@ -113,7 +113,7 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Global hotel and accommodation booking platform  
 **Best Use Case:** Booking hotels with flexible cancellation policies  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Genius loyalty program unlocks discounts and perks  

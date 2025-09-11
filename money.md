@@ -29,18 +29,18 @@ nav_order: 2
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   margin-top: 1rem;
   flex-wrap: nowrap;
   overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 90px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
@@ -63,7 +63,7 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** Digital wallet for QR payments, transfers, and bills  
 **Best Use Case:** Paying at 7-Eleven, street vendors, and online shopping  
-**Available on Thai Store only:** ✅  
+**Available outside of Thai stores?** ❌  
 **Foreign Credit Cards accepted?** ❌ (Requires Thai bank account or cash top-up)  
 **Notable Tricks:**  
 - Works widely where PromptPay is accepted  
@@ -88,7 +88,7 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** QR payment app for travelers across Southeast Asia  
 **Best Use Case:** Paying with QR codes in Thailand, Vietnam, Philippines, Cambodia, Laos, and Mongolia using foreign bank accounts  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅ (Top-up with US, EU, UK banks or international cards)  
 **Notable Tricks:**  
 - 1% cashback with zero fees  
@@ -114,7 +114,7 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** International transfers and currency exchange  
 **Best Use Case:** Sending money to Thailand or paying in THB with low fees  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Multi-currency account with THB wallet  
@@ -139,7 +139,7 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** Multi-currency banking app  
 **Best Use Case:** Using foreign cards in Thailand with minimal FX fees  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Create virtual cards for secure online shopping  

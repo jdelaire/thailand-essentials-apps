@@ -29,18 +29,18 @@ nav_order: 1
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   margin-top: 1rem;
   flex-wrap: nowrap;
   overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 90px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
@@ -63,7 +63,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Maps & navigation  
 **Best Use Case:** Finding routes for walking, driving, or public transport in Thai cities  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Download offline maps before rural or island trips  
@@ -88,7 +88,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Native iOS map and navigation app  
 **Best Use Case:** iPhone users wanting simple navigation with Siri integration  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Works seamlessly with Apple CarPlay  
@@ -113,7 +113,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Ride-hailing, food delivery, grocery delivery  
 **Best Use Case:** Booking taxis or motorbikes, especially when language is a barrier  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - GrabRewards points can be exchanged for discounts  
@@ -138,7 +138,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Alternative ride-hailing app, usually cheaper than Grab  
 **Best Use Case:** Quick and affordable rides in Bangkok and Chiang Mai  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Often cheaper than Grab, but availability can be limited late at night  
@@ -163,7 +163,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Official Bangkok SkyTrain (BTS) app for routes and fares  
 **Best Use Case:** Planning journeys on the BTS network across Bangkok  
-**Available on Thai Store only:** ✅  
+**Available outside of Thai stores?** ❌  
 **Foreign Credit Cards accepted?** ℹ️ (Free app)  
 **Notable Tricks:**  
 - Built-in route planner with fare estimates  
@@ -188,7 +188,7 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Official app for the Bangkok MRT subway system  
 **Best Use Case:** Checking train routes, fares, and station info for the Blue and Purple lines  
-**Available on Thai Store only:** ✅  
+**Available outside of Thai stores?** ❌  
 **Foreign Credit Cards accepted?** ℹ️ (Free app)  
 **Notable Tricks:**  
 - Provides updates on service disruptions  

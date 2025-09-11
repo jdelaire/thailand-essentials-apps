@@ -29,18 +29,18 @@ nav_order: 6
 .app-screenshots {
   display: flex;
   justify-content: center;
-  gap: 0.25rem;
+  gap: 0.75rem;
   margin-top: 1rem;
   flex-wrap: nowrap;
   overflow-x: auto;
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 90px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
@@ -63,7 +63,7 @@ Essential apps for shopping and lifestyle needs in Thailand.
 
 **Purpose:** Thailand's largest e-commerce marketplace  
 **Best Use Case:** Buying cheap goods, fashion, gadgets, and home items with daily vouchers  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Daily "Shopee Coins" and voucher codes reduce prices  
@@ -88,7 +88,7 @@ Essential apps for shopping and lifestyle needs in Thailand.
 
 **Purpose:** Major e-commerce app with wide product range and official brand stores  
 **Best Use Case:** Electronics, appliances, and products where you want authenticity guaranteed  
-**Available on Thai Store only:** ❌  
+**Available outside of Thai stores?** ✅  
 **Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - LazMall section offers authentic products with fast delivery  
