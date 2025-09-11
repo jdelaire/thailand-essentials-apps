@@ -35,7 +35,7 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - Integrated with Wongnai reviews for trusted ratings  
 - Often has lower delivery fees in central Bangkok  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/line-man-wongnai/id1071609634) / [Google Play](https://play.google.com/store/apps/details?id=com.linecorp.linemanth&hl=en)
+**Download:** [App Store](https://apps.apple.com/th/app/line-man-wongnai/id1071609634) / [Google Play](https://play.google.com/store/apps/details?id=com.linecorp.linemanth)
 
 ---
 
@@ -51,4 +51,4 @@ Essential apps for food delivery and grocery shopping in Thailand.
 - Offers next-day delivery — great for bulk restock needs  
 - PRO Points system gives cashback rewards on purchases  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/us/app/makropro-9-9-super-deals/id1570380497) / [Google Play](https://play.google.com/store/apps/details?id=com.makromangoapp.production)
+**Download:** [App Store](https://apps.apple.com/th/app/makropro-9-9-super-deals/id1570380497) / [Google Play](https://play.google.com/store/apps/details?id=com.makromangoapp.production)

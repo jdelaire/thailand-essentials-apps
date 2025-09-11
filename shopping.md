@@ -19,7 +19,7 @@ Essential apps for shopping and lifestyle needs in Thailand.
 - Daily "Shopee Coins" and voucher codes reduce prices  
 - Integrated chat to negotiate with sellers  
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/app/shopee-th/id959841449) / [Google Play](https://play.google.com/store/apps/details?id=com.shopee.th)
+**Download:** [App Store](https://apps.apple.com/th/app/shopee-th/id959841449) / [Google Play](https://play.google.com/store/apps/details?id=com.shopee.th)
 
 ---
 
@@ -36,7 +36,7 @@ Essential apps for shopping and lifestyle needs in Thailand.
 - Frequent 11.11, 12.12, and payday mega sales  
 - You can pay your electricity, water, and mobile bills directly in the app using foreign credit cards
 **Platform:** *iOS | Android | Web*  
-**Download:** [App Store](https://apps.apple.com/app/lazada-th/id785385147) / [Google Play](https://play.google.com/store/apps/details?id=com.lazada.android)
+**Download:** [App Store](https://apps.apple.com/th/app/lazada-th/id785385147) / [Google Play](https://play.google.com/store/apps/details?id=com.lazada.android)
 
 ---
 

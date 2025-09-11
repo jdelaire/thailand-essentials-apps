@@ -9,7 +9,7 @@ Essential apps for managing money and making payments in Thailand.
 
 ## TrueMoney Wallet
 
-<img src="icons/truemoney-wallet.jpg" alt="TrueMoney Wallet icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
+<img src="icons/truemoney-wallet.jpg" alt="TrueMoney icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
 
 **Purpose:** Digital wallet for QR payments, transfers, and bills  
 **Best Use Case:** Paying at 7-Eleven, street vendors, and online shopping  
@@ -19,7 +19,7 @@ Essential apps for managing money and making payments in Thailand.
 - Works widely where PromptPay is accepted  
 - Easy top-up with Thai bank or cash at 7-Eleven  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/truemoney-wallet/id568388474) / [Google Play](https://play.google.com/store/apps/details?id=mm.com.truemoney.wallet)
+**Download:** [App Store](https://apps.apple.com/us/app/truemoney-pay-earn-coins/id663885752) / [Google Play](https://play.google.com/store/apps/details?id=th.co.truemoney.wallet)
 
 ---
 
@@ -27,15 +27,16 @@ Essential apps for managing money and making payments in Thailand.
 
 <img src="icons/moreta-pay.png" alt="Moreta Pay icon" width="44" height="44" style="vertical-align:text-bottom;border-radius:4px"/>
 
-**Purpose:** Mobile wallet and payments platform growing in Thailand  
-**Best Use Case:** Paying at participating merchants, especially in Chiang Mai and partner locations  
-**Available on Thai Store only:** ✅  
-**Foreign Credit Cards accepted?** ❌ (Requires Thai bank account)  
+**Purpose:** QR payment app for travelers across Southeast Asia  
+**Best Use Case:** Paying with QR codes in Thailand, Vietnam, Philippines, Cambodia, Laos, and Mongolia using foreign bank accounts  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅ (Top-up with US, EU, UK banks or international cards)  
 **Notable Tricks:**  
-- Supports local promos and cashback offers  
-- Works well for smaller shops adopting digital payments  
+- 1% cashback with zero fees  
+- Works with USD bank accounts and international Visa/Mastercard  
+- No cash exchanges or ATM runs needed  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/th/app/moreta-pay/id6451324675) / [Google Play](https://play.google.com/store/apps/details?id=com.moreta.pay)
+**Download:** [App Store](https://apps.apple.com/us/app/moreta-pay/id6590609636) / [Google Play](https://play.google.com/store/apps/details?id=com.moreta.moretamobile)
 
 ---
 

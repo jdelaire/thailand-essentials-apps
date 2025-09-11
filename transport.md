@@ -83,7 +83,7 @@ Essential apps for getting around Thailand efficiently.
 - Built-in route planner with fare estimates  
 - Station maps include exits and nearby landmarks  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/bts-skytrain/id606189381) / [Google Play](https://play.google.com/store/apps/details?id=com.btscorporation.btsapp)
+**Download:** [App Store](https://apps.apple.com/th/app/bts-skytrain/id606189381) / [Google Play](https://play.google.com/store/apps/details?id=th.btsc.theskytrains)
 
 ---
 
@@ -99,4 +99,4 @@ Essential apps for getting around Thailand efficiently.
 - Provides updates on service disruptions  
 - Station details include park & ride, facilities, and exits  
 **Platform:** *iOS | Android*  
-**Download:** [App Store](https://apps.apple.com/app/bangkok-mrt/id1059263761) / [Google Play](https://play.google.com/store/apps/details?id=com.bem.mrtapp)
+**Download:** [App Store](https://apps.apple.com/th/app/bangkok-mrt/id1059263761) / [Google Play](https://play.google.com/store/apps/details?id=com.devsenses.mrt_app)
