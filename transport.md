@@ -13,6 +13,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Maps & navigation  
 **Best Use Case:** Finding routes for walking, driving, or public transport in Thai cities  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Download offline maps before rural or island trips  
 - Search in Thai script for more accurate results  
@@ -27,6 +29,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Native iOS map and navigation app  
 **Best Use Case:** iPhone users wanting simple navigation with Siri integration  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Works seamlessly with Apple CarPlay  
 - Shows Bangkok BTS/MRT lines with station details  
@@ -41,6 +45,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Ride-hailing, food delivery, grocery delivery  
 **Best Use Case:** Booking taxis or motorbikes, especially when language is a barrier  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - GrabRewards points can be exchanged for discounts  
 - Works with most international credit/debit cards  
@@ -55,6 +61,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Alternative ride-hailing app, usually cheaper than Grab  
 **Best Use Case:** Quick and affordable rides in Bangkok and Chiang Mai  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Often cheaper than Grab, but availability can be limited late at night  
 - Some drivers only accept cash — check before riding  
@@ -69,6 +77,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Official Bangkok SkyTrain (BTS) app for routes and fares  
 **Best Use Case:** Planning journeys on the BTS network across Bangkok  
+**Available on Thai Store only:** ✅  
+**Foreign Credit Cards accepted?** ℹ️ (Free app)  
 **Notable Tricks:**  
 - Built-in route planner with fare estimates  
 - Station maps include exits and nearby landmarks  
@@ -83,6 +93,8 @@ Essential apps for getting around Thailand efficiently.
 
 **Purpose:** Official app for the Bangkok MRT subway system  
 **Best Use Case:** Checking train routes, fares, and station info for the Blue and Purple lines  
+**Available on Thai Store only:** ✅  
+**Foreign Credit Cards accepted?** ℹ️ (Free app)  
 **Notable Tricks:**  
 - Provides updates on service disruptions  
 - Station details include park & ride, facilities, and exits  

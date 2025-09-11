@@ -13,6 +13,8 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Thailand's #1 messaging app for chats, calls, and payments  
 **Best Use Case:** Staying in touch with locals, paying via QR codes, joining community groups  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Add official accounts for banks, shops, and even government services  
 - Use LINE Pay for payments and discounts  
@@ -27,6 +29,8 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Facebook's messaging platform  
 **Best Use Case:** Communicating with Thai friends and businesses that use Facebook Pages  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Many small shops in Thailand only reply via Facebook + Messenger  
 - Integrated with Facebook Marketplace for buying/selling  
@@ -41,6 +45,8 @@ Essential apps for staying connected and communicating in Thailand.
 
 **Purpose:** Global messaging app  
 **Best Use Case:** Staying connected with friends and family abroad  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - End-to-end encrypted calls and messages  
 - Works with international numbers when switching SIM cards  

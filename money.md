@@ -13,6 +13,8 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** Digital wallet for QR payments, transfers, and bills  
 **Best Use Case:** Paying at 7-Eleven, street vendors, and online shopping  
+**Available on Thai Store only:** ✅  
+**Foreign Credit Cards accepted?** ❌ (Requires Thai bank account or cash top-up)  
 **Notable Tricks:**  
 - Works widely where PromptPay is accepted  
 - Easy top-up with Thai bank or cash at 7-Eleven  
@@ -27,6 +29,8 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** Mobile wallet and payments platform growing in Thailand  
 **Best Use Case:** Paying at participating merchants, especially in Chiang Mai and partner locations  
+**Available on Thai Store only:** ✅  
+**Foreign Credit Cards accepted?** ❌ (Requires Thai bank account)  
 **Notable Tricks:**  
 - Supports local promos and cashback offers  
 - Works well for smaller shops adopting digital payments  
@@ -41,6 +45,8 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** International transfers and currency exchange  
 **Best Use Case:** Sending money to Thailand or paying in THB with low fees  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Multi-currency account with THB wallet  
 - Great exchange rates compared to banks  
@@ -55,6 +61,8 @@ Essential apps for managing money and making payments in Thailand.
 
 **Purpose:** Multi-currency banking app  
 **Best Use Case:** Using foreign cards in Thailand with minimal FX fees  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Create virtual cards for secure online shopping  
 - Works with Apple Pay / Google Pay in Thailand  

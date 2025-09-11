@@ -5,8 +5,6 @@ nav_order: 0
 
 # 🇹🇭 Thailand Essential Apps Guide  
 
-🚕 Transport | 💸 Money | 🍜 Food | 🏠 Housing | 💬 Social | 🛒 Shopping | 🧾 Utilities | 🌏 Travel  
-
 A curated guide to the **must-have apps for travelers, expats, and digital nomads in Thailand**.  
 Each app includes its **purpose, best use case, hidden tricks, and download links** — so you can get set up quickly and live like a local.  
 

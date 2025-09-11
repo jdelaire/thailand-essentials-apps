@@ -13,6 +13,8 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Short-term and monthly rental platform  
 **Best Use Case:** Booking apartments, condos, or villas directly from hosts  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Use "Monthly stay" filter for big discounts on long-term rentals  
 - Many listings include utilities and internet, ideal for digital nomads  
@@ -27,6 +29,8 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Hotel and accommodation booking with strong presence in Asia  
 **Best Use Case:** Finding deals on hotels, resorts, and guesthouses in Thailand  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - "AgodaCash" loyalty system gives discounts on future bookings  
 - Prices often lower than Booking.com for Thai hotels  
@@ -41,6 +45,8 @@ Essential apps for finding and booking accommodation in Thailand.
 
 **Purpose:** Global hotel and accommodation booking platform  
 **Best Use Case:** Booking hotels with flexible cancellation policies  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Genius loyalty program unlocks discounts and perks  
 - Many properties allow free cancellation until the day before check-in  

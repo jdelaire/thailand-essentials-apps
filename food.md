@@ -13,6 +13,8 @@ Essential apps for food delivery and grocery shopping in Thailand.
 
 **Purpose:** Food delivery from restaurants, cafes, and convenience stores  
 **Best Use Case:** Ordering meals in major Thai cities when you want the widest selection  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Integrated with Grab app (rides + food + groceries)  
 - GrabRewards points can be exchanged for food discounts  
@@ -27,6 +29,8 @@ Essential apps for food delivery and grocery shopping in Thailand.
 
 **Purpose:** Food delivery and restaurant discovery  
 **Best Use Case:** Finding local eateries not listed on Grab or Foodpanda  
+**Available on Thai Store only:** ✅  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Integrated with Wongnai reviews for trusted ratings  
 - Often has lower delivery fees in central Bangkok  
@@ -41,6 +45,8 @@ Essential apps for food delivery and grocery shopping in Thailand.
 
 **Purpose:** Wholesale grocery ordering and delivery for businesses (B2B focus)  
 **Best Use Case:** Stocking up on bulk groceries, supplies, and household items for restaurants, hotels, or retail  
+**Available on Thai Store only:** ❌  
+**Foreign Credit Cards accepted?** ✅  
 **Notable Tricks:**  
 - Offers next-day delivery — great for bulk restock needs  
 - PRO Points system gives cashback rewards on purchases  
