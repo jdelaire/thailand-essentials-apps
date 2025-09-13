@@ -43,8 +43,8 @@ h2 {
 }
 
 .app-screenshot {
-  width: 60px;
-  height: 106px;
+  width: 78px;
+  height: 138px;
   object-fit: cover;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.15);

@@ -36,8 +36,8 @@ nav_order: 5
 }
 
 .app-screenshot {
-  width: 120px;
-  height: 213px;
+  width: 156px;
+  height: 277px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 3px 8px rgba(0,0,0,0.2);
