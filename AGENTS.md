@@ -1,19 +1,35 @@
-# Repository Guidelines
+# Repository Guidelines (Static Site)
 
-## Project Structure & Module Organization
-This Jekyll 4 site uses the Just the Docs theme. Top-level Markdown files such as `index.md`, `transport.md`, and `money.md` define each content category. Shared components live in `_includes/`, layouts in `_layouts/`, and global settings in `_config.yml`. Visual assets reside in `icons/` (64×64 thumbnails) and `screenshots/` (156×277 galleries), while custom CSS is managed in `assets/css/style.css`. Utility scripts, including `scripts/fetch_appstore_screenshots.py`, support asset automation.
+## Structure & Responsibilities
+- `index.html` contains all rendered content. Categories are marked with `section` elements (`id="transport"`, `id="money"`, etc.) and each app lives inside an `<article class="app-card">`.
+- Styling lives in `assets/css/style.css`. It defines the ThaiQuest-inspired palette, grid, and component styles.
+- Light interactivity (navigation highlighting + back-to-top button) is handled by `assets/js/site.js`.
+- Icons (`icons/`) should be square, 64×64px minimum, JPG or PNG. Screenshots (`screenshots/`) are portrait 392×696px JPGs.
+- `scripts/` holds helper utilities (for example, the App Store screenshot fetcher). Update or extend as needed, but it is not part of the runtime site.
 
-## Build, Test, and Development Commands
-Install Jekyll locally (for example with `gem install jekyll`). Use `jekyll serve` for a local preview at `http://localhost:4000`, or add `--livereload` while iterating. `jekyll build` compiles `_site/` for CI checks, and `jekyll clean` clears caches after layout or theme tweaks.
+## Local Preview
+- Open `index.html` directly in a browser for quick checks.
+- For accurate relative paths, run a lightweight server from the project root:
+  ```bash
+  python3 -m http.server 4000
+  ```
 
-## Coding Style & Naming Conventions
-Start every page with YAML front matter (`title`, `nav_order`) followed by one H1. Favor Markdown headings, tables, and emphasis; embed HTML only for structured components such as the `.app-header` pattern in `transport.md`. Keep inline `<style>` tags grouped near the top of a file and reuse existing class names. Name images in lowercase kebab-case (`grab.jpg`, `grab-1.jpg`) and maintain the existing two-space list indentation.
+## Editing Conventions
+- Keep HTML tidy and semantic. Use existing utility classes before introducing new ones.
+- For new apps, duplicate an existing `.app-card` and update icon paths, copy, and screenshots. Maintain the `{app-name}-{1..3}.jpg` naming scheme.
+- Use descriptive `alt` text on every image.
+- Prefer lowercase kebab-case for filenames (`deep-pocket.jpg`, `deep-pocket-1.jpg`).
+- When tweaking layout colors or spacing, adjust CSS custom properties at the top of `style.css` so the theme stays cohesive.
 
-## Testing Guidelines
-There is no automated suite, so treat `jekyll build` as the required regression test before committing. Use `jekyll serve --livereload` to review new copy, verify navigation, and confirm icons or screenshots load correctly. When adjusting asset dimensions or CSS, spot-check mobile breakpoints through browser dev tools.
+## Testing & QA
+- There is no automated test suite. Manually verify:
+  - Layout on mobile and desktop breakpoints.
+  - Navigation anchors scroll to the correct sections.
+  - External links open in new tabs and include `rel="noreferrer noopener"`.
+  - Back-to-top button appears after scrolling.
+- Optimize new images before committing to keep repository size manageable.
 
-## Commit & Pull Request Guidelines
-Write imperative, capitalized commit subjects (`Update Apple Maps screenshots`). Conventional prefixes such as `feat:` or `fix:` are welcome when they clarify scope; append issue or PR numbers when relevant (`feat: Add Grab tips (#5)`). Pull requests should describe the user-facing impact, list the commands you ran (`jekyll build`), and attach refreshed screenshots whenever visuals shift.
-
-## Asset & Content Management Tips
-Icons stay at 64×64 with 8px corners, while screenshots remain 156×277 with 10px corners. Source App Store imagery via `scripts/fetch_appstore_screenshots.py`, rename files to `{app-name}-{1..3}.jpg`, and compress them before committing. Maintain descriptive `alt` text and reuse the `.app-screenshot` classes so hover and shadow effects remain consistent.
+## Git Hygiene
+- Write imperative, capitalized commit subjects (e.g., `Add DeepPocket payment card`).
+- If a change requires manual verification, mention the steps or browsers used in the description.
+- Avoid force-pushes to shared branches unless coordinated.
