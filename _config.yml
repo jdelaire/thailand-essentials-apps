@@ -14,6 +14,7 @@ head_scripts:
 
 title: Thailand Essential Apps
 description: Curated must-have apps for travelers, expats, and digital nomads in Thailand.
+footer_content: "&nbsp;"
 
 # Just the Docs theme configuration
 just_the_docs:
@@ -30,7 +31,6 @@ just_the_docs:
   aux_links:
     "GitHub":
       - "//github.com/jdelaire/thailand-essentials-apps"
-  footer_content: ""
 
 # Navigation structure - Just the Docs uses file-based navigation
 # The navigation will be automatically generated from the markdown files
