@@ -105,6 +105,32 @@ Essential apps for managing money and making payments in Thailand.
 
 ---
 
+## DeepPocket
+
+<div class="app-header">
+<img src="icons/deep-pocket.jpg" alt="DeepPocket icon" width="64" height="64" class="app-icon"/>
+<h3 class="app-title">DeepPocket</h3>
+</div>
+
+**Purpose:** Tourist-friendly Thai e-wallet with PromptPay QR and a Visa prepaid card  
+**Best Use Case:** Scanning PromptPay QR codes without a Thai bank account and keeping a Visa card ready for travel spend  
+**Available outside of Thai stores?** ✅  
+**Foreign Credit Cards accepted?** ✅ (Load the wallet with Visa/Mastercard top-ups)  
+**Notable Tricks:**  
+- Tourist Access Plan unlocks PromptPay QR payments for 30 days with a 50,000 THB cap  
+- Top up instantly via credit card, mobile banking, QR, or counter service  
+- Offers virtual and physical Visa cards plus Bangkok transit tie-ins  
+**Platform:** *iOS | Android*  
+**Download:** [App Store](https://apps.apple.com/us/app/deeppocket/id1012822362){:target="_blank"} / [Google Play](https://play.google.com/store/apps/details?id=com.t2pco.deeppocket){:target="_blank"}
+
+<div class="app-screenshots">
+<img src="screenshots/deep-pocket-1.jpg" alt="DeepPocket Screenshot 1" class="app-screenshot"/>
+<img src="screenshots/deep-pocket-2.jpg" alt="DeepPocket Screenshot 2" class="app-screenshot"/>
+<img src="screenshots/deep-pocket-3.jpg" alt="DeepPocket Screenshot 3" class="app-screenshot"/>
+</div>
+
+---
+
 ## Wise
 
 <div class="app-header">

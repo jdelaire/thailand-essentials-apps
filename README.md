@@ -26,7 +26,6 @@ A curated guide to the **must-have apps for travelers, expats, and digital nomad
 - **Theme**: Just the Docs (GitHub Pages compatible)
 - **CSS**: Custom styling with SCSS support
 - **Deployment**: GitHub Pages ready
-- **Containerization**: Docker support for local development
 
 ### Project Structure
 ```
@@ -55,9 +54,6 @@ thailand-essentials-apps/
 ├── housing.md               # Accommodation apps
 ├── social.md                # Communication & Social apps
 ├── shopping.md              # Shopping & Lifestyle apps
-├── Gemfile                  # Ruby dependencies
-├── Dockerfile               # Docker configuration
-├── docker-compose.yml       # Docker Compose setup
 └── README.md                # This file
 ```
 
@@ -119,34 +115,21 @@ thailand-essentials-apps/
 
 ### Prerequisites
 - Ruby 2.7+ (for Jekyll)
-- Docker (optional, for containerized development)
 - Git
+- Local Jekyll environment (for example `gem install github-pages webrick`)
 
 ### Local Development
 
-#### Option 1: Ruby/Jekyll (Recommended)
 ```bash
 # Clone the repository
 git clone https://github.com/jdelaire/thailand-essentials-apps.git
 cd thailand-essentials-apps
 
-# Install dependencies
-bundle install
+# Install GitHub Pages-compatible Jekyll tooling (first run only)
+gem install github-pages webrick
 
 # Serve locally
-bundle exec jekyll serve
-
-# Access at http://localhost:4000
-```
-
-#### Option 2: Docker
-```bash
-# Clone the repository
-git clone https://github.com/jdelaire/thailand-essentials-apps.git
-cd thailand-essentials-apps
-
-# Build and run with Docker Compose
-docker-compose up --build
+jekyll serve
 
 # Access at http://localhost:4000
 ```
@@ -154,13 +137,13 @@ docker-compose up --build
 ### Development Commands
 ```bash
 # Serve with live reload
-bundle exec jekyll serve --livereload
+jekyll serve --livereload
 
 # Build for production
-bundle exec jekyll build
+jekyll build
 
 # Clean build artifacts
-bundle exec jekyll clean
+jekyll clean
 ```
 
 ## 📝 Content Management
@@ -217,12 +200,6 @@ bundle exec jekyll clean
 - **Plugins**: jekyll-remote-theme, jekyll-sass-converter, jekyll-feed
 - **Custom CSS**: Linked via head_scripts
 
-### Docker Configuration
-- **Base Image**: jekyll/jekyll:4.3.0
-- **Port**: 4000
-- **Volume Mount**: Live reload enabled for development
-- **Environment**: Development mode with livereload
-
 ## 🚀 Deployment
 
 ### GitHub Pages
@@ -235,7 +212,7 @@ The site is configured for automatic deployment via GitHub Pages:
 ### Manual Deployment
 ```bash
 # Build for production
-bundle exec jekyll build
+jekyll build
 
 # Deploy _site/ directory to your web server
 ```
@@ -286,7 +263,7 @@ bundle exec jekyll build
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Test locally with `bundle exec jekyll serve`
+4. Test locally with `jekyll serve`
 5. Submit a pull request
 
 ### Contribution Guidelines
