@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const navLinks = document.querySelectorAll('[data-nav-link]');
   const sections = Array.from(document.querySelectorAll('[data-section]'));
   const primaryNav = document.querySelector('.primary-nav');
+  const navContainer = document.querySelector('.primary-nav-container');
 
   const observer = new IntersectionObserver(
     (entries) => {
@@ -24,26 +25,26 @@ document.addEventListener('DOMContentLoaded', () => {
   sections.forEach((section) => observer.observe(section));
 
   const updateNavShadows = () => {
-    if (!primaryNav) return;
+    if (!primaryNav || !navContainer) return;
     const { scrollLeft, scrollWidth, clientWidth } = primaryNav;
     const atStart = scrollLeft <= 2;
     const atEnd = scrollLeft + clientWidth >= scrollWidth - 2;
-    primaryNav.classList.toggle('show-left-shadow', !atStart);
-    primaryNav.classList.toggle('show-right-shadow', !atEnd);
+    navContainer.classList.toggle('show-left-shadow', !atStart);
+    navContainer.classList.toggle('show-right-shadow', !atEnd);
   };
 
   const evaluateNavOverflow = () => {
-    if (!primaryNav) return;
+    if (!primaryNav || !navContainer) return;
     const isScrollable = primaryNav.scrollWidth - primaryNav.clientWidth > 1;
     if (isScrollable) {
-      primaryNav.classList.add('is-scrollable');
+      navContainer.classList.add('is-scrollable');
       updateNavShadows();
     } else {
-      primaryNav.classList.remove('is-scrollable', 'show-left-shadow', 'show-right-shadow');
+      navContainer.classList.remove('is-scrollable', 'show-left-shadow', 'show-right-shadow');
     }
   };
 
-  if (primaryNav) {
+  if (primaryNav && navContainer) {
     primaryNav.addEventListener('scroll', updateNavShadows, { passive: true });
     window.addEventListener('resize', evaluateNavOverflow);
     evaluateNavOverflow();
