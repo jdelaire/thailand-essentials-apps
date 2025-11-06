@@ -30,7 +30,10 @@ just_the_docs:
   aux_links:
     "GitHub":
       - "//github.com/jdelaire/thailand-essentials-apps"
+  footer_content: ""
 
 # Navigation structure - Just the Docs uses file-based navigation
 # The navigation will be automatically generated from the markdown files
 # based on their front matter (title, nav_order, parent)
+exclude:
+  - AGENTS.md
