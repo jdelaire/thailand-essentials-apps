@@ -251,6 +251,7 @@ img {
 
 .content-section {
   padding: 4.25rem 1.75rem 3.25rem;
+  scroll-margin-top: 160px;
 }
 
 .section-inner {
@@ -619,6 +620,10 @@ img {
   .hero {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
+  }
+
+  .content-section {
+    scroll-margin-top: 210px;
   }
 
   .site-header .inner {
